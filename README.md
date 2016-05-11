@@ -96,3 +96,7 @@ An `Eventually` object contains a value that will eventually be available, perha
 => #<Thread run>
 HELLO WORLD
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sclinede/monads/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
